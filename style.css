@@ -291,9 +291,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 }
 
 /* Положите фото в папку images/ с этими именами — они подставятся сами */
-.category-coffee      { background-image: url("images/cofe.JPG"),      linear-gradient(135deg, #7a4d2c, #2d1d14); }
+.category-coffee      { background-image: url("images/cofe.jpg"),      linear-gradient(135deg, #7a4d2c, #2d1d14); }
 .category-non-coffee  { background-image: url("images/non-coffee.jpg"),  linear-gradient(135deg, #5e6b4a, #24342c); }
-.category-food        { background-image: url("images/food.JPG"),        linear-gradient(135deg, #b0733a, #4a2e1c); }
+.category-food        { background-image: url("images/food.jpg"),        linear-gradient(135deg, #b0733a, #4a2e1c); }
 .category-dessert     { background-image: url("images/desert.jpg"),     linear-gradient(135deg, #8c5a4a, #3a241c); }
 
 .category-icon {
